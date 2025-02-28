@@ -4,7 +4,7 @@ import com.employee.services.InstanceInformationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-
+//now code is added 
 @RestController
 public class EmpController {
 
